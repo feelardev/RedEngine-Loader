@@ -1,0 +1,7 @@
+C:\Users\Mory\Downloads\redENGINE-FiveM-KeyAuth-Loader-50O50-main\redENGINE-FiveM-KeyAuth-Loader-50O50-main\obj\Release\Loader.csproj.AssemblyReference.cache
+C:\Users\Mory\Downloads\redENGINE-FiveM-KeyAuth-Loader-50O50-main\redENGINE-FiveM-KeyAuth-Loader-50O50-main\obj\Release\Loader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mory\Downloads\redENGINE-FiveM-KeyAuth-Loader-50O50-main\redENGINE-FiveM-KeyAuth-Loader-50O50-main\obj\Release\KeyAuth.List.resources
+C:\Users\Mory\Downloads\redENGINE-FiveM-KeyAuth-Loader-50O50-main\redENGINE-FiveM-KeyAuth-Loader-50O50-main\obj\Release\KeyAuth.List2.resources
+C:\Users\Mory\Downloads\redENGINE-FiveM-KeyAuth-Loader-50O50-main\redENGINE-FiveM-KeyAuth-Loader-50O50-main\obj\Release\KeyAuth.Main.resources
+C:\Users\Mory\Downloads\redENGINE-FiveM-KeyAuth-Loader-50O50-main\redENGINE-FiveM-KeyAuth-Loader-50O50-main\obj\Release\KeyAuth.Login.resources
+C:\Users\Mory\Downloads\redENGINE-FiveM-KeyAuth-Loader-50O50-main\redENGINE-FiveM-KeyAuth-Loader-50O50-main\obj\Release\Loader.csproj.GenerateResource.cache
